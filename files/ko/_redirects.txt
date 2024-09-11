@@ -620,7 +620,8 @@
 /ko/docs/Web/CSS/filter-function/contrast()	/ko/docs/Web/CSS/filter-function/contrast
 /ko/docs/Web/CSS/transform-function/matrix()	/ko/docs/Web/CSS/transform-function/matrix
 /ko/docs/Web/CSS/transform-function/scaleX()	/ko/docs/Web/CSS/transform-function/scaleX
-/ko/docs/Web/CSS/url()	/ko/docs/Web/CSS/url
+/ko/docs/Web/CSS/url	/ko/docs/Web/CSS/url_value
+/ko/docs/Web/CSS/url()	/ko/docs/Web/CSS/url_value
 /ko/docs/Web/CSS/var()	/ko/docs/Web/CSS/var
 /ko/docs/Web/CSS/시작하기	/en-US/docs/Learn/CSS/First_steps
 /ko/docs/Web/CSS/시작하기/CSS_동작_원리	/en-US/docs/Learn/CSS/First_steps/How_CSS_works
